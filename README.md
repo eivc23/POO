@@ -1,2 +1,3 @@
-# POO
+# POO c++
+
 Practica con clases
